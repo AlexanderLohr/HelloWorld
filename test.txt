@@ -2,9 +2,11 @@ git push --force;
 HakunaMatata();
 SendThunder();
 GetRainAmount();
+thisisHotfixForMaster();
 
 ## THIS WILL BE FEATURE0 STUFF##
-muchwow();
+muchwow(); ##THIS IS ALSO PART OF HOTIX
+
 
 ## THIS WILL BE FEATURE1 STUFF##
 suchamazing();
