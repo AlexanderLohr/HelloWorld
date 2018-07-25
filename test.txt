@@ -7,6 +7,8 @@ thisisHotfixForMaster();
 ## THIS WILL BE FEATURE0 STUFF##
 muchwow(); ##THIS IS ALSO PART OF HOTIX
 
+feature4 ##Timo
+feature5 ##Timo
 
 ## THIS WILL BE FEATURE1 STUFF##
 suchamazing();
