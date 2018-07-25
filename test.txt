@@ -14,3 +14,6 @@ undo_suchamazing();
 ## THIS WILL BE FEATURE2 STUFF##
 if(feature1 EQ schrott)
 { feature2(); }
+
+## R.I.P FEATURE 3 & EXPERIMENT 1+2 ##
+thisFeatureIsLost();
