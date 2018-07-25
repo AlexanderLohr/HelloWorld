@@ -8,3 +8,5 @@ muchwow();
 
 ## THIS WILL BE FEATURE1 STUFF##
 suchamazing();
+if(feature1 EQ schrott)
+undo_suchamazing();
