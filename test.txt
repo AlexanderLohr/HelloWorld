@@ -1,5 +1,8 @@
 git push --force;
 HakunaMatata();
 SendThunder();
-GetRainAmount(); ##SHIT WE NEED A FAST HOTFIX HERE ASAP!
+GetRainAmount();
 thisisHotfixForMaster();
+
+## THIS WILL BE FEATURE0 STUFF##
+muchwow(); ##THIS IS ALSO PART OF HOTIX
