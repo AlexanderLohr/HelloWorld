@@ -2,3 +2,6 @@ git push --force;
 HakunaMatata();
 SendThunder();
 GetRainAmount();
+
+## THIS WILL BE FEATURE0 STUFF##
+muchwow();
