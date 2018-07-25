@@ -5,4 +5,23 @@ GetRainAmount();
 thisisHotfixForMaster();
 
 ## THIS WILL BE FEATURE0 STUFF##
+<<<<<<< HEAD
 muchwow(); ##THIS IS ALSO PART OF HOTIX
+=======
+muchwow(); ##THIS IS ALSO PART OF HOTIX
+
+feature4 ##Timo
+feature5 ##Timo
+
+## THIS WILL BE FEATURE1 STUFF##
+suchamazing();
+if(feature1 EQ schrott)
+undo_suchamazing();
+
+## THIS WILL BE FEATURE2 STUFF##
+if(feature1 EQ schrott)
+{ feature2(); }
+
+## R.I.P FEATURE 3 & EXPERIMENT 1+2 ##
+thisFeatureIsLost();
+>>>>>>> dev
