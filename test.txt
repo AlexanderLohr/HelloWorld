@@ -5,3 +5,7 @@ GetRainAmount();
 
 ## THIS WILL BE FEATURE0 STUFF##
 muchwow();
+
+## THIS WILL BE FEATURE2 STUFF##
+if(feature1 EQ schrott)
+{ feature2(); }
