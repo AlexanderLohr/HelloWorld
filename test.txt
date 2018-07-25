@@ -10,3 +10,7 @@ muchwow();
 suchamazing();
 if(feature1 EQ schrott)
 undo_suchamazing();
+
+## THIS WILL BE FEATURE2 STUFF##
+if(feature1 EQ schrott)
+{ feature2(); }
