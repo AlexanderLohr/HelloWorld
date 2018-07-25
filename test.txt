@@ -5,3 +5,6 @@ GetRainAmount();
 
 ## THIS WILL BE FEATURE0 STUFF##
 muchwow();
+
+## THIS WILL BE FEATURE1 STUFF##
+suchamazing();
